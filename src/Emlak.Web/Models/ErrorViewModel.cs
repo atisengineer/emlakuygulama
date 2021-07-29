@@ -1,6 +1,6 @@
 using System;
 
-namespace Emlak.Models
+namespace Emlak.Web.Models
 {
     public class ErrorViewModel
     {
